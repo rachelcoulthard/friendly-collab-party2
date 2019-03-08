@@ -12,6 +12,7 @@ Hello everyone! This is the "Friendly Collab Party" folder. This project is used
 1. hello
 2. this is a second point
 
+I'm trying to do another pull request.
 
 #Sara Verstraeten
 This is a contribution from a different collaborator
